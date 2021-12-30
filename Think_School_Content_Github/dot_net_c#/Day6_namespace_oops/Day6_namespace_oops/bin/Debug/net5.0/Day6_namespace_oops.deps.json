@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Day6_namespace_oops/1.0.0": {
+        "runtime": {
+          "Day6_namespace_oops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day6_namespace_oops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

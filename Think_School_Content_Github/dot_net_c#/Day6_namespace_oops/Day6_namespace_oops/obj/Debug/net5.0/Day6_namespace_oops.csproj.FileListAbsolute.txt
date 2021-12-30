@@ -1,0 +1,16 @@
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\bin\Debug\net5.0\Day6_namespace_oops.exe
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\bin\Debug\net5.0\Day6_namespace_oops.deps.json
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\bin\Debug\net5.0\Day6_namespace_oops.runtimeconfig.json
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\bin\Debug\net5.0\Day6_namespace_oops.runtimeconfig.dev.json
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\bin\Debug\net5.0\Day6_namespace_oops.dll
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\bin\Debug\net5.0\ref\Day6_namespace_oops.dll
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\bin\Debug\net5.0\Day6_namespace_oops.pdb
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\obj\Debug\net5.0\Day6_namespace_oops.csproj.AssemblyReference.cache
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\obj\Debug\net5.0\Day6_namespace_oops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\obj\Debug\net5.0\Day6_namespace_oops.AssemblyInfoInputs.cache
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\obj\Debug\net5.0\Day6_namespace_oops.AssemblyInfo.cs
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\obj\Debug\net5.0\Day6_namespace_oops.csproj.CoreCompileInputs.cache
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\obj\Debug\net5.0\Day6_namespace_oops.dll
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\obj\Debug\net5.0\ref\Day6_namespace_oops.dll
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\obj\Debug\net5.0\Day6_namespace_oops.pdb
+D:\Think_School_Content_Github\dot_net_c#\Day6_namespace_oops\Day6_namespace_oops\obj\Debug\net5.0\Day6_namespace_oops.genruntimeconfig.cache
